@@ -1,0 +1,1 @@
+Meu jogo se trata de um fazendeiro que cuida das suas ovelhas tem 4 modos tranquilo rapido lento e moderado, o fazendeiro precisa buscar todas as suas ovelhas de modo que ele não bata nas proprias ovelhas. Seu objetivo é complentar todo o mapa e zerar o jogo, quando zerar uma parte pode tentar os outros 3 modos que existem.
